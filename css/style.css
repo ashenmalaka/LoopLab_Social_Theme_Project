@@ -40,7 +40,7 @@ body {
     border-radius: 5px;
 }
 
-#explore-section.fas {
+#explore-section .fas {
     background: #333;
     color: #fff;
     padding: 5px;
